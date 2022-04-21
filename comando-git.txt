@@ -1,2 +1,16 @@
 git status
+-> não rastreado
+-> rastreado
+-> commitados
+-> modificados
 
+git add .
+
+git commit -m "first commit"
+git commit --amend
+
+git log
+git log --oneline
+
+git restore nomedoarquivo.ext
+git restore .
