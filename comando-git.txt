@@ -14,3 +14,9 @@ git log --oneline
 
 git restore nomedoarquivo.ext
 git restore .
+
+
+git branch -M main
+git remote add origin https://github.com/willianspraciano/cursinh-js-github.git
+git push -u origin main
+git clone https://github.com/willianspraciano/cursinh-js-github.git
