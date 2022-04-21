@@ -21,3 +21,4 @@ git remote add origin https://github.com/willianspraciano/cursinh-js-github.git
 git push -u origin main
 git clone https://github.com/willianspraciano/cursinh-js-github.git
 
+git checkout -b new-branch
