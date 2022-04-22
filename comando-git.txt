@@ -23,3 +23,5 @@ git clone https://github.com/willianspraciano/cursinh-js-github.git
 
 git checkout -b new-branch
 git checkout nome-da-branch
+
+git rm --cached brach.txt
